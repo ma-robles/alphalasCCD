@@ -1,2 +1,2 @@
 # alphalasCCD
-script para procesar datos del CCD
+script para procesar datos del CCD alphalas 
