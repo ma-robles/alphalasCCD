@@ -1,0 +1,5 @@
+Laboratorio de Espectroscopia Atmosferica
+Centro de Ciencias de la Atmosfera (UNAM), Mexico City
+Lat 19.3262 N, Lon 99.1761 W, Alt 2280 masl
+Time UTC-6h
+Model: ALPHALAS 3648 pixeles
